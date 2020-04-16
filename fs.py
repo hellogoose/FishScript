@@ -26,3 +26,5 @@ for char in script:
     fishnum = 0
   elif char == "~":
     fishnum *= 2
+
+print("")
