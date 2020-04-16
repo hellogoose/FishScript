@@ -14,6 +14,8 @@ with open('fishes.ocean', 'r') as reader:
             current += number
         elif token == wave:
             current *= number
+        elif token == div:
+            current /= number
         elif token == fish_end:
             result += chr(current)
             current = 0
