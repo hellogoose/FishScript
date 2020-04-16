@@ -5,6 +5,7 @@ with open('fishes.ocean', 'r') as reader:
     fish = '<><'
     fish_end = '><>'
     wave = '~'
+    div = '/\<
     current = 0
 
     result = ''
