@@ -12,3 +12,4 @@ o<   Generic stack pop. Prints the ASCII character.
 <CLOSE>< Close the function definition.
 ><V> Pop the variable stack.
 ><F> Pop the function stack (that will be used for different uses, e.g. if statements).
+Any other characters are ignored by the interpreter.
