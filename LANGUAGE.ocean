@@ -1,0 +1,14 @@
+<><  Represents one unit of fish.
+~    Doubles fish in front of it.
+>o   Pushes to the stack.
+o<   Generic stack pop. Prints the ASCII character.
+<P>< Peek at the top of the stack. Prints the ASCII character.
+<D>< Pop but no print.
+<DU>< Duplicate the top of the stack.
+<S>< Swap the second and top of the stack.
+<O>< Pushes the second item in the stack to the top while still being in the same position.
+<V>< Gets input, and pushes to the stack for variables.
+<DEF>< Define a function.
+<CLOSE>< Close the function definition.
+><V> Pop the variable stack.
+><F> Pop the function stack (that will be used for different uses, e.g. if statements).
