@@ -6,4 +6,4 @@ FishScript, the language of the fish
 FishScript is a stack-based fish language for fish programs.
 
 ## Documentation? 
-check out the [esolang page](https://esolangs.org/wiki/FishScript) and the [language](LANGUAGE.OCEAN) document
+check out the [esolang page](https://esolangs.org/wiki/FishScript) and the [language](LANGUAGE.ocean) document
